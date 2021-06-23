@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "27PXexRJkZlolUOd8BTwxE7E3QXslBMT0FGdqDtERGFFsuW/YG3JSPiUEjC6fkUfflEnnz8CWuaaUAfmFzi8Jg==",
+  "success": true,
+  "projectFilePath": "D:\\Программирование\\WPF\\Alarm_Clock_WPF\\Alarm_Clock_WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nikita\\.nuget\\packages\\mvvmlightlibs\\5.4.1.1\\mvvmlightlibs.5.4.1.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"MvvmLightLibs 5.4.1.1\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "MvvmLightLibs",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\Программирование\WPF\Alarm_Clock_WPF\obj\Debug\netcoreapp3.1\Alarm_Clock_WPF.csprojAssemblyReference.cache
+D:\Программирование\WPF\Alarm_Clock_WPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Программирование\WPF\Alarm_Clock_WPF\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Программирование\WPF\Alarm_Clock_WPF\obj\Debug\netcoreapp3.1\Alarm_Clock_WPF_MarkupCompile.cache
+D:\Программирование\WPF\Alarm_Clock_WPF\obj\Debug\netcoreapp3.1\Alarm_Clock_WPF_MarkupCompile.lref
+D:\Программирование\WPF\Alarm_Clock_WPF\obj\Debug\netcoreapp3.1\AlarmWindow.g.cs
+D:\Программирование\WPF\Alarm_Clock_WPF\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
